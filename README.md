@@ -2,8 +2,5 @@
 -npm install
 -npm start
 
-
-                              
-                                          
-                                                         ![food-app](https://user-images.githubusercontent.com/36125167/192129802-cd168f3d-5b5f-47f6-a04a-ff066e0de189.gif)
    
+![food-app](https://user-images.githubusercontent.com/36125167/192129830-0f48c738-8fe4-4ee9-b23e-afeb1b176422.gif)
